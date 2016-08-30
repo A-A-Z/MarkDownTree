@@ -1,0 +1,26 @@
+{
+  "name": "markdowntree",
+  "version": "1.0.0",
+  "description": "File Trees for Markdown",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A-A-Z/MarkDownTree.git"
+  },
+  "keywords": [
+    "markdown",
+    "filetree"
+  ],
+  "author": "Paul K Lynch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/A-A-Z/MarkDownTree/issues"
+  },
+  "homepage": "https://github.com/A-A-Z/MarkDownTree#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
